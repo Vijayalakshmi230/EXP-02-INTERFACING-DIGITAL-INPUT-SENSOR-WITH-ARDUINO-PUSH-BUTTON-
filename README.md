@@ -89,7 +89,8 @@ void loop()
 
 Output of the simulation :
 
-
+Before Simulation:
 ![2023-04-24 (1)](https://user-images.githubusercontent.com/127175503/233991735-49bfb930-79b1-4489-9a76-be228fadc1ce.jpg)
+After Simulation:
 ![2023-04-24 (2)](https://user-images.githubusercontent.com/127175503/233991814-5948412a-a600-470a-84b0-f46a015d5f97.jpg)
 
